@@ -39,6 +39,7 @@ University of Engineering and Management, Kolkata (2022 – 2026)
 
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate)
 ![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge)
 ![JDBC](https://img.shields.io/badge/JDBC-000000?style=for-the-badge)
