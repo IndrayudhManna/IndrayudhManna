@@ -14,14 +14,15 @@ Computer Science Engineering Student | Java Backend Developer
 
 # 🚀 About Me
 
-🎓 **B.Tech in Computer Science & Engineering**  
-University of Engineering and Management, Kolkata (2022 – 2026)
+🎓 B.Tech in **Computer Science & Engineering** | **UEM Kolkata** (2022–2026)
 
-💡 Passionate about building **backend systems, DevOps pipelines, and AI-based projects**
+💻 Building scalable **backend systems, AI-powered applications, and full-stack projects**
 
-🌱 Currently learning **Spring Boot, DevOps**
+🚀 Developing an **AI-powered Resume & Job Description Matcher** using **FastAPI, Python, NLP, and modern backend technologies**
 
-♟️ Working on building a **high-ELO Chess Bot using AI algorithms**
+🛠️ Interested in **Backend Development, DevOps, AI/ML, Cloud Technologies, and System Design**
+
+📈 Passionate about solving real-world problems through **DSA** and **impactful projects**
 
 📍 Kolkata, India
 
